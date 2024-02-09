@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XO+gC7TMoJeIhEeJihDHv7Up27WJSs2c+BQIWgdQBWY=",
+  "Source": "WebAppManageSchoolDatabase",
+  "BasePath": "_content/WebAppManageSchoolDatabase",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
